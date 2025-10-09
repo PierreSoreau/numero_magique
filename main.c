@@ -35,4 +35,6 @@ int main(){
     }
 
     printf("Gagné!\n");
+
+    exit(0);
 }
