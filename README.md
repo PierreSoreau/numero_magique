@@ -10,4 +10,5 @@ Langage C
 
 ## Fonctionnalités
 
+![gif du jeu](photo/numero-magique.gif)
 
